@@ -1,5 +1,5 @@
-# CanvaCards – Dynamic Canva Presentation Viewer
-CanvaCards is a web service that dynamically displays Canva presentation cards for different clients. Simply provide a client ID in the URL, and the corresponding Canva design will be embedded automatically.
+# NeoCards – Dynamic Canva Presentation Viewer
+NeoCards is a web service that dynamically displays Canva presentation cards for different clients. Simply provide a client ID in the URL, and the corresponding Canva design will be embedded automatically.
 
 # ✨ Features
 
@@ -8,10 +8,6 @@ CanvaCards is a web service that dynamically displays Canva presentation cards f
 ✅ Client-specific URLs (e.g., ?id=client1)
 
 ✅ Simple JSON-based configuration for managing client designs
-
-✅ Lightweight and easy to deploy (static site or minimal backend)
-
-✅ Open-source and customizable
 
 # 🚀 How It Works
 
